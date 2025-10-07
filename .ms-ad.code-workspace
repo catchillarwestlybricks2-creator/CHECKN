@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../.ms-ad"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "html",
+		"liveServer.settings.port": 5501
+	}
+}
